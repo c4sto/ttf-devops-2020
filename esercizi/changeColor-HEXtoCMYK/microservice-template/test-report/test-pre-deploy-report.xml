@@ -1,0 +1,22 @@
+<testsuites name="Mocha Tests">
+  <testsuite name="controllo di conversione da HEX to CMYK " tests="9" errors="0" failures="0" skipped="0" timestamp="2020-03-17T17:36:04" time="0.17">
+    <testcase classname="controllo di conversione da HEX to CMYK " name="test case description" time="0.072">
+    </testcase>
+    <testcase classname="controllo di conversione da HEX to CMYK " name="test case description" time="0.008">
+    </testcase>
+    <testcase classname="controllo di conversione da HEX to CMYK " name="test case description" time="0.009">
+    </testcase>
+    <testcase classname="controllo di conversione da HEX to CMYK " name="test case description" time="0.002">
+    </testcase>
+    <testcase classname="controllo di conversione da HEX to CMYK " name="test case description" time="0.002">
+    </testcase>
+    <testcase classname="controllo di conversione da HEX to CMYK " name="test case description" time="0.002">
+    </testcase>
+    <testcase classname="controllo di conversione da HEX to CMYK " name="test case description" time="0.002">
+    </testcase>
+    <testcase classname="controllo di conversione da HEX to CMYK " name="test case description" time="0.002">
+    </testcase>
+    <testcase classname="controllo di conversione da HEX to CMYK " name="test case description" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
