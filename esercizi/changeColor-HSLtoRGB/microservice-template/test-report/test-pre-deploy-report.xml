@@ -1,0 +1,22 @@
+<testsuites name="Mocha Tests">
+  <testsuite name="controller di conversione da HSL a RGB" tests="9" errors="0" failures="0" skipped="0" timestamp="2020-03-17T18:17:47" time="0.1">
+    <testcase classname="controller di conversione da HSL a RGB" name="test case description" time="0.054">
+    </testcase>
+    <testcase classname="controller di conversione da HSL a RGB" name="test case description" time="0.004">
+    </testcase>
+    <testcase classname="controller di conversione da HSL a RGB" name="test case description" time="0.003">
+    </testcase>
+    <testcase classname="controller di conversione da HSL a RGB" name="test case description" time="0.002">
+    </testcase>
+    <testcase classname="controller di conversione da HSL a RGB" name="test case description" time="0.002">
+    </testcase>
+    <testcase classname="controller di conversione da HSL a RGB" name="test case description" time="0.002">
+    </testcase>
+    <testcase classname="controller di conversione da HSL a RGB" name="test case description" time="0.003">
+    </testcase>
+    <testcase classname="controller di conversione da HSL a RGB" name="test case description" time="0.003">
+    </testcase>
+    <testcase classname="controller di conversione da HSL a RGB" name="test case description" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>
